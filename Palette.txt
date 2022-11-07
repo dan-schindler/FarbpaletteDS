@@ -3,6 +3,9 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
+Weidegrün
 Blau
 Gelb
 Lila
